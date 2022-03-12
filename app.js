@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 
-!process.argv[2] && process.exit(console.log("To run the program, type: "node app.js <sum>" where <sum> is the sum of height of a pair of players (example: node app.js 141)"))
+!process.argv[2] && process.exit(console.log("Please insert a value in the command (ex: node app.js 141)"))
 
 let settings = { method: "Get" };
 let url = "https://mach-eight.uc.r.appspot.com/";
