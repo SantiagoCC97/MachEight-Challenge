@@ -37,5 +37,6 @@ fetch(url, settings)
         console.log(matriz[(selected[i][0])]['first_name']," ", matriz[(selected[i][0])]['last_name'],"  &  ",
                             matriz[(selected[i][1])]['first_name']," ", matriz[(selected[i][1])]['last_name']);
     } ;
+   process.exit(1);
  }
 });
