@@ -15,5 +15,6 @@ After installed, follow the next steps.
 4)  go to the directory where you Downloaded "app.js" file. 
     Ex: > cd user/name/documents
     
-5) once it is located in the directory: Type: node app.js
+5) once it is located in the directory: Type: node app.js 139
+    
 
