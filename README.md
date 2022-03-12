@@ -15,6 +15,6 @@ After installed, follow the next steps.
 4)  go to the directory where you Downloaded "app.js" file. 
     Ex: > cd user/name/documents
     
-5) once it is located in the directory: Type: node app.js 139
+5) To run the program, type: "node app.js <sum>" where <sum> is the sum of height of a pair of players (example: node app.js 141)
     
 
